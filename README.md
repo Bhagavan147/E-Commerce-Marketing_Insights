@@ -1,1 +1,1 @@
-# E-Commerce-Marketing_Insights
+# Marketing Insights for E-Commerce Company
