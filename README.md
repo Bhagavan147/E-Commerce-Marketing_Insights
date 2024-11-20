@@ -67,28 +67,4 @@ This project employs data analysis techniques to extract actionable insights tha
 4. **CLTV Prediction**: Build models to estimate future customer value for prioritizing retention efforts.  
 5. **Cross-Selling Opportunities**: Perform market basket analysis to uncover frequently co-purchased products.  
 6. **Data-Driven Recommendations**: Present actionable insights through compelling visualizations and reports.  
-
----
-
-### Solution Methodology  
-
-1. **Data Cleaning and Preprocessing**:  
-   - Address missing values, outliers, and inconsistencies.  
-   - Calculate the **Invoice Value** for transactions:
-        Invoice Value = ((Quantity Avg_price) (1 - Discount_pct) * (1 + GST)) + Delivery_Charges.
-     
-2. **Exploratory Data Analysis (EDA)**:  
-   - **Customer Retention Trends**: Analyze customer acquisition, churn, and demographic patterns over time.  
-   - **Marketing Spend Analysis**: Assess correlations between marketing expenses and revenue using hypothesis testing.  
-   - **Discount Effectiveness**: Examine how promotions influence metrics like Average Order Value (AOV) and Customer Acquisition Cost (CAC).  
-
-3. **Advanced Analysis**:  
-   - **Seasonality**: Detect trends in sales over time to guide marketing and inventory decisions.  
-   - **Performance Metrics**: Calculate KPIs such as revenue, number of orders, and AOV by category and timeframe.  
-   - **Marketing Efficiency**: Analyze revenue, delivery charges, and marketing spend to pinpoint optimization opportunities.  
-   - **Cross-Selling**: Identify product bundling opportunities with market basket analysis.  
-
-4. **Cohort Analysis**:  
-   - Create customer cohorts based on acquisition month.  
-   - Track behavior (orders, revenue) over time to identify trends in customer retention.  
  
